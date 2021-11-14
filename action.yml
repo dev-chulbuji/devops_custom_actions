@@ -5,5 +5,3 @@ author: "DJ"
 runs:
   using: 'docker'
   image: 'Dockerfile'
-  args:
-    - $
