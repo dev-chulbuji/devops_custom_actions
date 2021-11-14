@@ -1,0 +1,7 @@
+name: 'Devops custom actions'
+description: 'Fastcampus devops custom actions'
+author: "DJ"
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
